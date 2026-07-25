@@ -525,7 +525,6 @@ This project demonstrates solutions to practical engineering problems:
 - Reusable modules shared across multiple automation scripts.
 - Multi-site deployments through configurable site mappings.
 - Separation of data collection, business logic, and presentation to support future AI integration.
-
 ---
 
 # 📸 Screenshots 
@@ -539,37 +538,35 @@ This project demonstrates solutions to practical engineering problems:
 
 
 
----
+
 
 ## Misloads Deficit Alerts
 
 
 
-```
 <img width="867" height="510" alt="image" src="https://github.com/user-attachments/assets/e1ab0af2-4eac-4d74-b241-bd4c75442ccb" />
 <img width="513" height="297" alt="image" src="https://github.com/user-attachments/assets/024c2236-47ca-4379-94d2-b2cf33d011d4" />
----
+
 
 ## Yard Ops Assistant
 
-```
 
-```
+
 <img width="351" height="281" alt="image" src="https://github.com/user-attachments/assets/967f5296-5764-464e-a895-2ee9861fa1b2" />
 <img width="348" height="306" alt="image" src="https://github.com/user-attachments/assets/b0e7711c-72d4-4534-b7a7-35a695cd8edf" />
 
----
+
 
 ## FYCON Cancel Check
 
-```
-```
+
+
 <img width="2540" height="564" alt="image" src="https://github.com/user-attachments/assets/e598051e-9fb9-4240-93f6-8b0fb9722aef" />
 
 
----
 
----
+
+
 
 # 🛣 Roadmap
 
