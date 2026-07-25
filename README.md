@@ -532,7 +532,7 @@ This project demonstrates solutions to practical engineering problems:
 
 ## FMC–YMS Reconciler
 
-```
+
 <img width="805" height="456" alt="image" src="https://github.com/user-attachments/assets/74b30540-3303-426f-9437-54fefe385da0" />
 
 <img width="224" height="668" alt="image" src="https://github.com/user-attachments/assets/83abbe47-b829-4ef5-9a4b-129c1d6ea7aa" />
