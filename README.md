@@ -60,7 +60,7 @@ The architecture is intentionally designed to support future **AI-powered operat
 | Manual reconciliation | Reduced from ~20 minutes to near-instant |
 | FYCON cancel detection | Automated cancelled VRID detection for IXD |
 | Case count reduction | Early deficit alerts prevent escalations |
-| Sites supported | 25+ logistics sites |
+| Sites supported | 100+ logistics sites |
 | Manual copy-paste | Eliminated |
 | Slack notifications | Automated operational alerts |
 | Future readiness | AI / LLM-ready architecture |
@@ -70,7 +70,7 @@ The architecture is intentionally designed to support future **AI-powered operat
 # 📊 Engineering Metrics
 
 - 🚚 4 Production Automation Projects
-- 🌍 Supports 25+ Logistics Sites
+- 🌍 Supports 100+ Logistics Sites
 - ⚡ Near-Instant Reconciliation
 - 🔔 Automated Slack Alerting
 - 📈 Operational Analytics
@@ -159,7 +159,7 @@ An automated monitoring system that proactively detects trailer deficits by comp
 - Automated trailer deficit detection
 - Cross-system comparison between FMC and YMS
 - Carrier-level and site-level analysis
-- Automatic Slack notifications to 25+ logistics sites
+- Automatic Slack notifications to 100+ logistics sites
 - Intelligent duplicate alert management to reduce notification fatigue
 - Ongoing issue tracking until deficits are resolved
 - Configurable thresholds and reusable alert logic
@@ -187,7 +187,7 @@ Generate Alert Summary
 Send Slack Notifications
           │
           ▼
-Operations Teams (25+ Sites)
+Operations Teams (100+ Sites)
 ```
 
 ---
@@ -225,7 +225,7 @@ Currently executed manually three times per day as part of operational monitorin
 - Reduces manual monitoring effort across multiple systems.
 - Enables proactive planning for operations teams.
 - Helps reduce case volume by identifying deficits early.
-- Improves visibility across 25+ logistics sites through automated notifications.
+- Improves visibility across 100+ logistics sites through automated notifications.
 
 # 3️⃣ Yard Ops Assistant
 
@@ -561,7 +561,7 @@ This project demonstrates solutions to practical engineering problems:
 
 
 
-<img width="2540" height="564" alt="image" src="https://github.com/user-attachments/assets/e598051e-9fb9-4240-93f6-8b0fb9722aef" />
+<img width="10040" height="564" alt="image" src="https://github.com/user-attachments/assets/e598051e-9fb9-4240-93f6-8b0fb9722aef" />
 
 
 
@@ -584,7 +584,7 @@ This project demonstrates solutions to practical engineering problems:
 
 # ⭐ Why This Project?
 
-These projects demonstrate **production-scale logistics automation** serving real teams across **25+ sites**, with measurable improvements in operational efficiency, error reduction, and proactive case prevention.
+These projects demonstrate **production-scale logistics automation** serving real teams across **100+ sites**, with measurable improvements in operational efficiency, error reduction, and proactive case prevention.
 
 The architecture separates **data acquisition**, **business logic**, and **presentation**, making it ready for future **AI and LLM integration** while delivering immediate business value through automation, analytics, and intelligent decision support.
 
